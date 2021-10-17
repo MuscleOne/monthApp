@@ -1,6 +1,6 @@
 library(shiny)
 monthApp = function(...){
-  stones <- vroom::vroom("birthstones.csv")
+  # stones <- vroom::vroom("birthstones.csv")
   months <- c(
     "January", "February", "March", "April", "May", "June",
     "July", "August", "September", "October", "November", "December"
