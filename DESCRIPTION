@@ -17,3 +17,5 @@ Depends:
     R (>= 4.0.0)
 Imports: 
     shiny
+URL: https://github.com/MuscleOne/monthApp
+BugReports: https://github.com/MuscleOne/monthApp/issues
