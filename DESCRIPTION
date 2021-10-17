@@ -1,5 +1,5 @@
 Package: monthApp
-Title: What the Package Does (One Line, Title Case)
+Title: An example of a Shiny app-package
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Tianhao",
