@@ -1,1 +1,2 @@
  a sample txt to learn git.
+git diff staged
